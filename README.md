@@ -1,19 +1,27 @@
+![Vibes](https://i.pinimg.com/originals/1e/66/f9/1e66f91a067d8903dd0a5e93b0110aeb.gif)
 
-![MasterHead](https://i.pinimg.com/1200x/39/79/6b/39796bee06852b44d92b15fa5ab4d5da.jpg)
+# Merhaba,
 
+11.Sınıf Bilişim Teknolojileri Öğrencisi | Siber Güvenlik & Network
 
+---
 
-<h1 align="center">Merhaba 👋, ben Işık Emir ÖLMEZ</h1>
-<h3 align="center">11.Sınıf BT Öğrencisi | Siber Güvenlik & Network</h3>
+## <img src="https://cd.linuxscrew.com/wp-content/uploads/2012/03/cisco.gif" width="40" style="vertical-align:middle"> Sertifikalar (TR)
 
-- 🌱 Sertifikalar (TR): **IT Essentials 7 | CCNA Giriş | Siber Güvenliğe Giriş | Siber Güvenlik Temelleri**
+- 🔺 IT Essentials 7 CCNA  
+- 🔺 Introduction to Networks  
+- 🔺 Introduction to Cybersecurity  
+- 🔺 Cybersecurity Essentials  
 
-- 📫 İletişim: **emirolmezzzz@gmail.com**
+---
 
-<h3 align="left">Benimle bağlantı kurun:</h3>
-<p align="left">
-<a href="https://instagram.com/emirolmezzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirolmezzzz" height="30" width="40" /></a>
-</p>
+## İletişim
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="mailto:emirolmezzzz@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/15047/15047587.png" width="20" style="vertical-align:middle;" title="Mail"/></a>  
+<a href="https://www.instagram.com/emirolmezzzz"><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" width="20" style="vertical-align:middle;" title="Instagram"/></a>
+
+---
+
+## Hakkımda
+
+**Selamlar dostlar, ben Işık Emir ÖLMEZ. Şu an 11.Sınıfım. İstediğim alan siber güvenlik operatörlüğü ve bunun için YKS’ye çalışıyorum. Nasip kısmet, umarım zamanı gelince sorunsuz bir şekilde yerleşirim.**
